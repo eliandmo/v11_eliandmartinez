@@ -26,21 +26,7 @@ BERTopic_NewsMedia_Narratives_GitHub/
 |-- notebooks/
 |   |-- bertopic_thesis_reanalysis_openai.ipynb
 |   `-- bertopic_thesis_reanalysis_llama31_local_optional.ipynb
-|
-|-- outputs/
-|   |-- figures/
-|   |-- grid/
-|   |-- labeling_evidence/
-|   |-- outliers/
-|   `-- tables/
-|
-|-- environment/
-|   `-- requirements.txt
-|
-|-- DATA_DICTIONARY.md
-|-- REPRODUCIBILITY.md
-|-- DATA_NOTICE.md
-|-- GITHUB_UPLOAD_STEPS.md
+
 `-- README.md
 ```
 
