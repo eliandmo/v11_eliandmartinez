@@ -1,0 +1,49 @@
+From,To
+Humans,Human
+Adult,Human
+Adolescent,Human
+Aged,Human
+Child,Human
+Male,Human
+Female,Human
+Gender,Human
+Article,Scientific Publication
+Publication,Scientific Publication
+Review,Scientific Publication
+Systematic Review,Scientific Publication
+News,News Media
+News Articles,News Media
+News Coverage,News Media
+Newspapers As Topic,News Media
+Media,News Media
+Mass Media,News Media
+Mass Medium,News Media
+Media Role,News Media
+Media Representation,News Media
+Media Framing,News Media
+Media Coverage,News Media
+Media Analysis,News Media
+News Reporting,News Media
+Digital Journalism,Journalism
+Narrative Analysis,Narrative
+Storytelling,Narrative
+Framing Theory,Framing
+Frame Analysis,Framing
+Critical Discourse Analysis,Discourse Analysis
+Discourse,Discourse Analysis
+News Discourse,Discourse Analysis
+Political Discourse,Discourse Analysis
+Coronavirus Disease 2019,Covid-19
+Severe Acute Respiratory Syndrome Coronavirus 2,Covid-19
+Pandemic,Covid-19
+Epidemic,Covid-19
+Natural Language Processing Systems,Natural Language Processing
+Language Processing,Natural Language Processing
+Text Processing,Natural Language Processing
+Natural Languages,Natural Language Processing
+Computational Linguistics,Natural Language Processing
+Corpus Linguistics,Natural Language Processing
+Large Language Model,Language Model
+Social Networking (online),Social Media
+Public Opinions,Public Opinion
+Public Perception,Public Opinion
